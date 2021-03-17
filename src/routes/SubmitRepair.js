@@ -79,7 +79,7 @@ function getStepContent(step) {
   }
 }
 
-export default function Checkout() {
+export default function SubmitRepair() {
   const classes = useStyles();
   const [activeStep, setActiveStep] = React.useState(0);
 
